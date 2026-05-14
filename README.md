@@ -1,12 +1,14 @@
-
-
-
+```html id="4sk0nz"
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>3D Animated Scene</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Samim 3D Portfolio</title>
+
+  <!-- THREE JS -->
+  <script type="module" src="https://cdn.jsdelivr.net/npm/three@0.152.2/build/three.module.js"></script>
 
   <style>
     *{
@@ -22,81 +24,194 @@
     }
 
     canvas{
-      display:block;
+      position:fixed;
+      top:0;
+      left:0;
+      width:100%;
+      height:100%;
+      z-index:1;
     }
 
-    .text{
+    /* HERO SECTION */
+    .hero{
       position:absolute;
       top:50%;
       left:50%;
       transform:translate(-50%,-50%);
-      color:#00ffff;
       text-align:center;
       z-index:10;
+
+      animation: float 4s ease-in-out infinite;
     }
 
-    .text h1{
-      font-size:70px;
-      text-shadow:0 0 20px cyan;
+    .hero h1{
+      font-size:90px;
+      color:#00F7FF;
+
+      text-shadow:
+        0 0 10px #00F7FF,
+        0 0 20px #00F7FF,
+        0 0 40px #00F7FF,
+        0 0 80px #00F7FF;
     }
 
-    .text p{
-      margin-top:10px;
-      font-size:20px;
+    .hero p{
       color:white;
+      margin-top:20px;
+      font-size:24px;
+      letter-spacing:4px;
     }
+
+    /* BUTTON */
+    .btn{
+      display:inline-block;
+      margin-top:35px;
+      padding:15px 40px;
+
+      border:2px solid #00F7FF;
+      border-radius:50px;
+
+      color:#00F7FF;
+      text-decoration:none;
+      font-size:18px;
+
+      transition:0.4s;
+
+      box-shadow:
+        0 0 10px #00F7FF,
+        0 0 20px #00F7FF;
+    }
+
+    .btn:hover{
+      background:#00F7FF;
+      color:black;
+
+      transform:scale(1.1);
+
+      box-shadow:
+        0 0 20px #00F7FF,
+        0 0 40px #00F7FF,
+        0 0 80px #00F7FF;
+    }
+
+    /* FLOATING ANIMATION */
+    @keyframes float{
+      0%{
+        transform:translate(-50%,-50%) translateY(0px);
+      }
+
+      50%{
+        transform:translate(-50%,-50%) translateY(-20px);
+      }
+
+      100%{
+        transform:translate(-50%,-50%) translateY(0px);
+      }
+    }
+
+    /* GLOW */
+    .glow{
+      position:absolute;
+      width:500px;
+      height:500px;
+
+      background:#00F7FF;
+      border-radius:50%;
+
+      filter:blur(200px);
+
+      opacity:0.2;
+
+      z-index:0;
+
+      animation:pulse 6s infinite;
+    }
+
+    @keyframes pulse{
+      0%{
+        transform:scale(1);
+      }
+
+      50%{
+        transform:scale(1.3);
+      }
+
+      100%{
+        transform:scale(1);
+      }
+    }
+
   </style>
 </head>
+
 <body>
 
-  <div class="text">
+  <!-- Glow -->
+  <div class="glow"></div>
+
+  <!-- HERO -->
+  <div class="hero">
     <h1>SAMIM</h1>
-    <p>3D Animated Developer Scene</p>
+
+    <p>FULL STACK DEVELOPER • CYBER SECURITY</p>
+
+    <a href="#" class="btn">Explore Portfolio</a>
   </div>
 
+  <!-- THREE JS 3D SCENE -->
   <script type="module">
+
     import * as THREE from 'https://cdn.jsdelivr.net/npm/three@0.152.2/build/three.module.js';
 
     const scene = new THREE.Scene();
 
     const camera = new THREE.PerspectiveCamera(
       75,
-      window.innerWidth / window.innerHeight,
+      window.innerWidth/window.innerHeight,
       0.1,
       1000
     );
 
-    const renderer = new THREE.WebGLRenderer({ antialias:true });
+    const renderer = new THREE.WebGLRenderer({
+      antialias:true
+    });
 
     renderer.setSize(window.innerWidth, window.innerHeight);
+
     document.body.appendChild(renderer.domElement);
 
-    // Cube
-    const geometry = new THREE.BoxGeometry(2,2,2);
+    // GEOMETRY
+    const geometry = new THREE.TorusKnotGeometry(1,0.3,100,16);
 
     const material = new THREE.MeshStandardMaterial({
       color:0x00ffff,
       emissive:0x00ffff,
       metalness:1,
-      roughness:0.2
+      roughness:0.1
     });
 
-    const cube = new THREE.Mesh(geometry, material);
-    scene.add(cube);
+    const torus = new THREE.Mesh(geometry, material);
 
-    // Light
-    const light = new THREE.PointLight(0xffffff,2);
-    light.position.set(5,5,5);
-    scene.add(light);
+    scene.add(torus);
 
-    // Background particles
+    // LIGHT
+    const pointLight = new THREE.PointLight(0xffffff,2);
+
+    pointLight.position.set(5,5,5);
+
+    scene.add(pointLight);
+
+    // PARTICLES
     const particlesGeometry = new THREE.BufferGeometry();
-    const particlesCount = 5000;
+
+    const particlesCount = 6000;
 
     const posArray = new Float32Array(particlesCount * 3);
 
     for(let i=0; i<particlesCount * 3; i++){
-      posArray[i] = (Math.random() - 0.5) * 50;
+
+      posArray[i] = (Math.random() - 0.5) * 100;
+
     }
 
     particlesGeometry.setAttribute(
@@ -105,7 +220,7 @@
     );
 
     const particlesMaterial = new THREE.PointsMaterial({
-      size:0.03,
+      size:0.02,
       color:0x00ffff
     });
 
@@ -116,30 +231,42 @@
 
     scene.add(particlesMesh);
 
-    camera.position.z = 5;
+    camera.position.z = 4;
 
-    // Animation
+    // ANIMATION
     function animate(){
+
       requestAnimationFrame(animate);
 
-      cube.rotation.x += 0.01;
-      cube.rotation.y += 0.01;
+      torus.rotation.x += 0.01;
+      torus.rotation.y += 0.01;
 
-      particlesMesh.rotation.y += 0.001;
+      particlesMesh.rotation.y += 0.0008;
 
       renderer.render(scene,camera);
     }
 
     animate();
 
-    // Resize
-    window.addEventListener('resize', () => {
-      camera.aspect = window.innerWidth / window.innerHeight;
+    // RESPONSIVE
+    window.addEventListener('resize',()=>{
+
+      camera.aspect = window.innerWidth/window.innerHeight;
+
       camera.updateProjectionMatrix();
 
-      renderer.setSize(window.innerWidth, window.innerHeight);
+      renderer.setSize(
+        window.innerWidth,
+        window.innerHeight
+      );
+
     });
+
   </script>
 
 </body>
 </html>
+```
+
+
+
