@@ -1,4 +1,3 @@
-
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm samim </h1>
 <h3 align="center">Full Stack Developer </h3>
@@ -86,4 +85,5 @@
 
 ### 🎯 Motto
 > *"("Build") ("Break") ("Learn") ("Repeat")."*
+
 
