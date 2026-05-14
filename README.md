@@ -1,270 +1,89 @@
-html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-  <title>Samim 3D Portfolio</title>
-
-  <!-- THREE JS -->
-  <script type="module" src="https://cdn.jsdelivr.net/npm/three@0.152.2/build/three.module.js"></script>
-
-  <style>
-    *{
-      margin:0;
-      padding:0;
-      box-sizing:border-box;
-      font-family:Arial, sans-serif;
-    }
-
-    body{
-      overflow:hidden;
-      background:black;
-    }
-
-    canvas{
-      position:fixed;
-      top:0;
-      left:0;
-      width:100%;
-      height:100%;
-      z-index:1;
-    }
-
-    /* HERO SECTION */
-    .hero{
-      position:absolute;
-      top:50%;
-      left:50%;
-      transform:translate(-50%,-50%);
-      text-align:center;
-      z-index:10;
-
-      animation: float 4s ease-in-out infinite;
-    }
-
-    .hero h1{
-      font-size:90px;
-      color:#00F7FF;
-
-      text-shadow:
-        0 0 10px #00F7FF,
-        0 0 20px #00F7FF,
-        0 0 40px #00F7FF,
-        0 0 80px #00F7FF;
-    }
-
-    .hero p{
-      color:white;
-      margin-top:20px;
-      font-size:24px;
-      letter-spacing:4px;
-    }
-
-    /* BUTTON */
-    .btn{
-      display:inline-block;
-      margin-top:35px;
-      padding:15px 40px;
-
-      border:2px solid #00F7FF;
-      border-radius:50px;
-
-      color:#00F7FF;
-      text-decoration:none;
-      font-size:18px;
-
-      transition:0.4s;
-
-      box-shadow:
-        0 0 10px #00F7FF,
-        0 0 20px #00F7FF;
-    }
-
-    .btn:hover{
-      background:#00F7FF;
-      color:black;
-
-      transform:scale(1.1);
-
-      box-shadow:
-        0 0 20px #00F7FF,
-        0 0 40px #00F7FF,
-        0 0 80px #00F7FF;
-    }
-
-    /* FLOATING ANIMATION */
-    @keyframes float{
-      0%{
-        transform:translate(-50%,-50%) translateY(0px);
-      }
 
-      50%{
-        transform:translate(-50%,-50%) translateY(-20px);
-      }
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm samim </h1>
+<h3 align="center">Full Stack Developer </h3>
 
-      100%{
-        transform:translate(-50%,-50%) translateY(0px);
-      }
-    }
+<p align="center">
+  <img aling="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-    /* GLOW */
-    .glow{
-      position:absolute;
-      width:500px;
-      height:500px;
 
-      background:#00F7FF;
-      border-radius:50%;
+</p>
 
-      filter:blur(200px);
+<!-- Profile Views -->
+<p align="center">
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=samim-t&label=Profile%20views&color=0e75b6&style=flat" alt="samim-t" /> </p>
 
-      opacity:0.2;
+---
 
-      z-index:0;
+## 👨‍💻 About Me
 
-      animation:pulse 6s infinite;
-    }
+- 🎓 Pursuing **B.Tech in Computer Science & Engineering** at  Maharshi Dayanand University. Rohtak (MDU)
+- 🔭 Currently working on **NO **  
+- 🌱 Improving skills in ** Python , Ai **   
+- 💬 Ask me about **HTML, CSS, JavaScript,React.js,Node.js & Express.js, Java, C++, Git/GitHub, and Microsoft Office **  
+- 📫 Reach me at **samim13093@gmail.com**  
+- ⚡ Fun fact: I enjoy ** Drawing **
 
-    @keyframes pulse{
-      0%{
-        transform:scale(1);
-      }
+---
 
-      50%{
-        transform:scale(1.3);
-      }
+## 🛠️ Tech Stack
 
-      100%{
-        transform:scale(1);
-      }
-    }
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
 
-  </style>
-</head>
+### 🧠 Programming
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-00599C?style=flat-square&logo=Java)
+### ⚙️ Backend 
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-<body>
+### 🧰 Tools & Software
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-  <!-- Glow -->
-  <div class="glow"></div>
 
-  <!-- HERO -->
-  <div class="hero">
-    <h1>SAMIM</h1>
+---
 
-    <p>FULL STACK DEVELOPER • CYBER SECURITY</p>
+## 🚀 Projects
 
-    <a href="#" class="btn">Explore Portfolio</a>
-  </div>
+  
+- 💻 **Java,C++ Language Programs** — Problem-solving with Java,C++  
 
-  <!-- THREE JS 3D SCENE -->
-  <script type="module">
+---
+## 📊 GitHub Stats
 
-    import * as THREE from 'https://cdn.jsdelivr.net/npm/three@0.152.2/build/three.module.js';
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashraful-alom-1&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ashraful-alom-1&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashraful-alom-1&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-    const scene = new THREE.Scene();
+---
 
-    const camera = new THREE.PerspectiveCamera(
-      75,
-      window.innerWidth/window.innerHeight,
-      0.1,
-      1000
-    );
+## 📫 Connect with Me
 
-    const renderer = new THREE.WebGLRenderer({
-      antialias:true
-    });
+<p align="center">
+  <a href="https://www.linkedin.com/in/fulbabu-islam-96a9ba2ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="mailto:fulbabui74@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/fulbabu-t">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
-    renderer.setSize(window.innerWidth, window.innerHeight);
+---
 
-    document.body.appendChild(renderer.domElement);
+### 🎯 Motto
+> *"("Build") ("Break") ("Learn") ("Repeat")."*
 
-    // GEOMETRY
-    const geometry = new THREE.TorusKnotGeometry(1,0.3,100,16);
-
-    const material = new THREE.MeshStandardMaterial({
-      color:0x00ffff,
-      emissive:0x00ffff,
-      metalness:1,
-      roughness:0.1
-    });
-
-    const torus = new THREE.Mesh(geometry, material);
-
-    scene.add(torus);
-
-    // LIGHT
-    const pointLight = new THREE.PointLight(0xffffff,2);
-
-    pointLight.position.set(5,5,5);
-
-    scene.add(pointLight);
-
-    // PARTICLES
-    const particlesGeometry = new THREE.BufferGeometry();
-
-    const particlesCount = 6000;
-
-    const posArray = new Float32Array(particlesCount * 3);
-
-    for(let i=0; i<particlesCount * 3; i++){
-
-      posArray[i] = (Math.random() - 0.5) * 100;
-
-    }
-
-    particlesGeometry.setAttribute(
-      'position',
-      new THREE.BufferAttribute(posArray,3)
-    );
-
-    const particlesMaterial = new THREE.PointsMaterial({
-      size:0.02,
-      color:0x00ffff
-    });
-
-    const particlesMesh = new THREE.Points(
-      particlesGeometry,
-      particlesMaterial
-    );
-
-    scene.add(particlesMesh);
-
-    camera.position.z = 4;
-
-    // ANIMATION
-    function animate(){
-
-      requestAnimationFrame(animate);
-
-      torus.rotation.x += 0.01;
-      torus.rotation.y += 0.01;
-
-      particlesMesh.rotation.y += 0.0008;
-
-      renderer.render(scene,camera);
-    }
-
-    animate();
-
-    // RESPONSIVE
-    window.addEventListener('resize',()=>{
-
-      camera.aspect = window.innerWidth/window.innerHeight;
-
-      camera.updateProjectionMatrix();
-
-      renderer.setSize(
-        window.innerWidth,
-        window.innerHeight
-      );
-
-    });
-
-  </script>
-
-</body>
-</html>
-
-
-🎯 Final Look Idea
-Header Animation → About Me → Skills → Stats → Snake Animation → Projects → Contact → Footer Wave
