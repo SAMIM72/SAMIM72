@@ -10,8 +10,61 @@
 
 <!-- Profile Views -->
 <p align="center">
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=samim-t&label=Profile%20views&color=0e75b6&style=flat" alt="samim-t" /> </p>
+  <svg width="220" height="220" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#16181c" />
+        <stop offset="100%" stop-color="#0b0c0e" />
+      </linearGradient>
+      <linearGradient id="grayGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#8e949e" />
+        <stop offset="100%" stop-color="#484c52" />
+      </linearGradient>
+      <linearGradient id="yellowGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#ffcb2b" />
+        <stop offset="100%" stop-color="#f57f17" />
+      </linearGradient>
+      <linearGradient id="orangeGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#ff4e21" />
+        <stop offset="45%" stop-color="#ff7526" />
+        <stop offset="100%" stop-color="#ffa726" />
+      </linearGradient>
+      <filter id="layerShadow" x="-20%" y="-20%" width="140%" height="140%">
+        <feDropShadow dx="0" dy="8" stdDeviation="9" flood-color="#000000" flood-opacity="0.5"/>
+      </filter>
+    </defs>
 
+    <rect width="500" height="500" rx="40" fill="url(#bgGrad)" />
+
+    <g stroke="url(#grayGrad)" stroke-width="54" stroke-linecap="round" filter="url(#layerShadow)">
+      <line x1="95" y1="95" x2="405" y2="405" />
+      <line x1="405" y1="95" x2="95" y2="405" />
+    </g>
+
+    <rect x="142" y="142" width="216" height="216" rx="48" fill="url(#yellowGrad)" transform="rotate(45 250 250)" filter="url(#layerShadow)" />
+
+    <path d="M 165,116 
+             C 215,143 285,143 335,116 
+             C 365,116 384,135 384,165 
+             C 357,215 357,285 384,335 
+             C 384,365 365,384 335,384 
+             C 285,357 215,357 165,384 
+             C 135,384 116,365 116,335 
+             C 143,215 143,143 116,165 
+             C 116,135 135,116 165,116 Z" 
+          fill="url(#orangeGrad)" filter="url(#layerShadow)" />
+
+    <circle cx="250" cy="250" r="66" fill="none" stroke="#ffffff" stroke-width="7.5" />
+    <g fill="none" stroke="#ffffff" stroke-width="7.5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M 218,234 L 198,250 L 218,266" />
+      <path d="M 258,223 L 242,277" />
+      <path d="M 282,234 L 302,250 L 282,266" />
+    </g>
+  </svg>
+  <br>
+  
+  <img src="https://komarev.com/ghpvc/?username=samim-t&label=Profile%20views&color=0e75b6&style=flat" alt="samim-t" />
+</p>
 ---
 
 ## 👨‍💻 About Me
