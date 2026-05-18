@@ -9,15 +9,8 @@
 </p>
 
 <!-- Profile Views -->
-<a href="https://medium.com/girlscript-summer-of-code/the-road-to-first-pr-in-gssoc-6cec438cb1e7" target="_blank">
-  The Road to First PR in GSSoC
-</a>
+[![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/GSSoC24)
 
-<br><br>
-
-<a href="https://github.com/GSSoC24" target="_blank">
-  GSSoC GitHub Organization
-</a>
 
 <br><br>
 
