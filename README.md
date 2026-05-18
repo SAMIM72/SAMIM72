@@ -1,2 +1,2 @@
-![Coding Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg)
+![Code Logo](https://img.icons8.com/fluency/512/source-code.png)
  
