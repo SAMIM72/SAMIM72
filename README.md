@@ -1,8 +1,6 @@
 
-<a href="https://github.com/GSSoC24" target="_blank">
-  <img 
-    src="https://i.imgur.com/8Km9tLL.png"
-    alt="Coding Logo"
-    width="250px"
-  >
-</a>
+<img 
+  src="https://cdn-icons-png.flaticon.com/512/6062/6062646.png"
+  alt="Coding Icon"
+  width="250px"
+/>
