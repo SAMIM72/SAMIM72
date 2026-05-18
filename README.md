@@ -9,10 +9,21 @@
 </p>
 
 <!-- Profile Views -->
-<p align="center">
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=samim-t&label=Profile%20views&color=0e75b6&style=flat" alt="samim-t" /> </p>
+<a href="https://medium.com/girlscript-summer-of-code/the-road-to-first-pr-in-gssoc-6cec438cb1e7" target="_blank">
+  The Road to First PR in GSSoC
+</a>
 
----
+<br><br>
+
+<a href="https://github.com/GSSoC24" target="_blank">
+  GSSoC GitHub Organization
+</a>
+
+<br><br>
+
+<a href="https://github.com/girlscript" target="_blank">
+  GirlScript Foundation GitHub
+</a>
 
 ## 👨‍💻 About Me
 
