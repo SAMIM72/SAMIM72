@@ -58,12 +58,33 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashraful-alom-1&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ashraful-alom-1&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashraful-alom-1&layout=compact&theme=radical" alt="Top Languages" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ashraful-alom-1&show_icons=true&theme=radical&hide_border=true&border_radius=20"
+    height="180"
+    alt="GitHub Stats"
+  />
+
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=ashraful-alom-1&theme=radical&hide_border=true&border_radius=20"
+    height="180"
+    alt="GitHub Streak"
+  />
 </p>
 
----
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashraful-alom-1&layout=compact&theme=radical&hide_border=true&border_radius=20&langs_count=8"
+    height="180"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00ffff&height=120&section=footer"
+    width="100%"
+  />
+</p>
 
 ## 📫 Connect with Me
 
