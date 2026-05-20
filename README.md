@@ -59,16 +59,16 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=ashraful-alom-1&show_icons=true&theme=radical&hide_border=true&border_radius=20"
-    height="180"
-    alt="GitHub Stats"
-  />
-
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=ashraful-alom-1&theme=radical&hide_border=true&border_radius=20"
-    height="180"
-    alt="GitHub Streak"
-  />
+  src="https://github-readme-stats.vercel.app/api?username=ashraful-alom-1&show_icons=true&theme=radical&hide_border=true&border_radius=20"
+  height="180"
+  alt="GitHub Stats"
+/>
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=ashraful-alom-1&theme=radical&hide_border=true&border_radius=20"
+  height="180"
+  alt="GitHub Streak"
+/>
+ 
 </p>
 
 <p align="center">
@@ -92,10 +92,10 @@
   <a href="https://www.linkedin.com/in/fulbabu-islam-96a9ba2ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" />
   </a>
-  <a href="mailto:fulbabui74@gmail.com">
+  <a href="mailto:samim13093@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/fulbabu-t">
+  <a href="https://github.com/samim-t">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" />
   </a>
   <a href="https://" target="_blank">
