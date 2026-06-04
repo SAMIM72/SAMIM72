@@ -41,12 +41,25 @@
 - 💻 **Java,C++ Language Programs** — Problem-solving with Java,C++  
 
 ---
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashraful-alom-1&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ashraful-alom-1&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashraful-alom-1&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samim&theme=github_dark" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=samim&theme=github_dark" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samim&theme=github_dark" width="49%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samim&theme=github_dark" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=samim&theme=github-dark&hide_border=true" width="49%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samim&show_icons=true&theme=github_dark&hide_border=true" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samim&layout=compact&theme=github_dark&hide_border=true" width="49%"/>
 </p>
 
 ---
