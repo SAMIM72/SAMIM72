@@ -52,10 +52,15 @@
 ---
 
 ## 🚀 Projects
-
   
-- 💻 **Java,C++ Language Programs** — Problem-solving with Java,C++  
-
+<div class="project🚀 ">
+    <h3>💻 Advanced Java & C++ Development Projects</h3>
+    <p>
+        Main Purpose: To design and develop efficient software applications,
+        implement Data Structures & Algorithms, practice Object-Oriented Programming (OOP),
+        and strengthen problem-solving skills using Java and C++.
+    </p>
+</div>
 ---
 ## 📊 GitHub Statistics
 
