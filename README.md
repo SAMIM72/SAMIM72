@@ -23,6 +23,7 @@
 </p>
 
 ---
+
 ## 👨‍💻 About Me
 
 - 🎓 Pursuing **B.Tech in Computer Science & Engineering** at  Maharshi Dayanand University. Rohtak (MDU)
@@ -32,7 +33,23 @@
 - 📫 Reach me at **samim13093@gmail.com**  
 - ⚡ Fun fact: I enjoy ** Drawing **
 
+---     
+
+
+
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00FF00,100:000000&height=120&section=header&text=ACCESS%20GRANTED&fontSize=30&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
 ---
+
+
+
+
+
+
+
 
 ## 🛠️ Tech Stack
 
