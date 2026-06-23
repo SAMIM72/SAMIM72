@@ -90,39 +90,64 @@
 
 ---
 
+
 ## 🚀 Projects
-  
-<div class="project🚀 ">
-    <h3>💻 Advanced Java & C++ Development Projects</h3>
-    <p>
-        Main Purpose: To design and develop efficient software applications,
-        implement Data Structures & Algorithms, practice Object-Oriented Programming (OOP),
-        and strengthen problem-solving skills using Java and C++.
-    </p>
+
+<div align="center">
+
+### 💻 Advanced Java & C++ Development Projects
+
 </div>
----
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samim&theme=github_dark" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=samim&theme=github_dark" width="49%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samim&theme=github_dark" width="49%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samim&theme=github_dark" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=samim&theme=github-dark&hide_border=true" width="49%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samim&show_icons=true&theme=github_dark&hide_border=true" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samim&layout=compact&theme=github_dark&hide_border=true" width="49%"/>
-</p>
 
 ---
+
+## 📌 Description
+
+- ☕ Java Development (OOP, Collections, Multithreading)
+- ⚙️ C++ Programming (DSA & Problem Solving)
+- 🧠 Data Structures & Algorithms
+- 🏗️ Object-Oriented Programming (OOP)
+- 🚀 Real-world Projects
+
+---
+
+## 🎯 Goals
+
+- Improve problem-solving skills  
+- Master DSA  
+- Build efficient applications  
+- Strengthen Java & C++  
+
+---
+
+## 🧰 Tech Stack
+
+`Java` • `C++` • `DSA` • `OOP` • `Problem Solving`
+
+---
+
+## 🔥 Status
+
+🚧 Learning & building projects continuously...
+# 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=SAMIM72&show_icons=true&theme=github_dark&count_private=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMIM72&layout=compact&theme=github_dark" />
+
+<img src="https://streak-stats.demolab.com?user=SAMIM72&theme=github-dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAMIM72&theme=github_dark" />
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samim&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -159,7 +184,7 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:8A2BE2&height=120&section=footer"/>
-</p>.              this. the 3d animaton 
+</p>.              
 
 
 
