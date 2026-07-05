@@ -131,10 +131,8 @@
 🚧 Learning & building projects continuously...
 # 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=SAMIM72&show_icons=true&theme=github_dark&count_private=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMIM72&layout=compact&theme=github_dark" />
-
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samim-t&show_icons=true&theme=github_dark)](https://github.com/samim-t)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samim-t&layout=compact&theme=github_dark)
 <img src="https://streak-stats.demolab.com?user=SAMIM72&theme=github-dark" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAMIM72&theme=github_dark" />
