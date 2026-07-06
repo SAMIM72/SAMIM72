@@ -1,4 +1,11 @@
 <p align="center">
+
+  <img src="https://i.im.ge/QMCl2xY/_PM-t300.webp" alt="PM">
+   
+
+</p>
+
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00FF00,100:000000&height=250&section=header&text=SAMIM%20KHAN&fontSize=60&fontColor=ffffff&animation=blinking"/>
 </p>
 
