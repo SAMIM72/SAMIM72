@@ -154,11 +154,7 @@
 
 ## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samim&theme=github-dark&hide_border=true"/>
-</p>
-
----
+[![Samim's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SAMIM72&theme=github-dark)](https://github.com/SAMIM72)
 
 
 ## 🌐 Connect With Me
