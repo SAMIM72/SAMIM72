@@ -105,35 +105,38 @@
 
 ---
 
-
-## 🚀 Projects
+# 🚀 Projects & Tech Stack
 
 <div align="center">
 
-### 💻 Advanced Java & C++ Development Projects
+### 🛡️ Cyber Security & Advanced Software Engineering
+
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)
+[![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Ethical%20Hacking-red?style=for-the-badge&logo=kalilinux&logoColor=white)](#)
+[![DSA](https://img.shields.io/badge/DSA-Advanced%20Algorithms-brightgreen?style=for-the-badge)](#)
+
+---
 
 </div>
 
----
+## 📌 Technical Overview
 
-## 📌 Description
+A specialized collection of projects centered around **secure system architecture**, **low-level C++ memory control**, **advanced Java development**, and **core computer science fundamentals**.
 
-- ☕ Java Development (OOP, Collections, Multithreading)
-- ⚙️ C++ Programming (DSA & Problem Solving)
-- 🧠 Data Structures & Algorithms
-- 🏗️ Object-Oriented Programming (OOP)
-- 🚀 Real-world Projects
-
----
-
-## 🎯 Goals
-
-- Improve problem-solving skills  
-- Master DSA  
-- Build efficient applications  
-- Strengthen Java & C++  
+* **🛡️ Cybersecurity & Secure Coding:** Vulnerability analysis, cryptography implementations, reverse engineering, and safe memory management in low-level languages.
+* **⚙️ Advanced C++ Engineering:** Low-level memory manipulation, pointer arithmetic, custom data structures, and optimized algorithm execution.
+* **☕ Enterprise Java Development:** Multi-threading/concurrency, advanced OOP design patterns, and high-performance collection pipelines.
+* **🧠 Complex DSA & Problem Solving:** Graph algorithms, dynamic programming, and low-latency code optimization.
 
 ---
+
+## 🎯 Strategic Goals
+
+- **🔐 Defense & Security:** Implement secure coding practices to eliminate common flaws (e.g., buffer overflows, memory leaks, injection attacks).
+- **🚀 High-Performance Code:** Master low-level memory handling in C++ and optimized multithreading in Java.
+- **⚡ Advanced Problem-Solving:** Solve complex CS challenges through scalable algorithms and efficient data architectures.
+- **🛠️ Production-Ready Systems:** Build robust, highly maintainable, and secure real-world applications.
 
 ## 🧰 Tech Stack
 
@@ -143,14 +146,28 @@
 
 ## 🔥 Status
 
-🚧 Learning & building projects continuously...
-# 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samim-t&show_icons=true&theme=github_dark)](https://github.com/samim-t)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samim-t&layout=compact&theme=github_dark)
-<img src="https://streak-stats.demolab.com?user=SAMIM72&theme=github-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SAMIM72&show_icons=true&theme=github_dark" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMIM72&layout=compact&theme=github_dark" alt="Top Languages" width="48%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAMIM72&theme=github_dark" />
+  <br /><br />
+
+  <img src="https://streak-stats.demolab.com?user=SAMIM72&theme=github-dark" alt="GitHub Streak" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAMIM72&theme=github_dark" alt="Profile Details" width="48%" />
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 📈 Contribution Graph
 
