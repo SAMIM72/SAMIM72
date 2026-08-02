@@ -210,9 +210,15 @@ A specialized collection of projects centered around **secure system architectur
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:8A2BE2&height=120&section=footer"/>
-</p>             
+</p>    
 
 
+<p align="center">
+  
+<a href="https://im.ge/i/QMZQzpG"><img src="https://i.im.ge/QMZQzpG/ChatGPT_Image_Aug_3_2026_at_03_13_01_AM-t150.webp" alt="ChatGPT Image Aug 3, 2026 At 03 13 01 AM" /></a>
+
+
+</p>
 
 
 
