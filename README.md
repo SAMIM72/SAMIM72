@@ -88,12 +88,45 @@
 ### ⚙️ Backend 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-### 🔐 Cyber Security & Tools
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+<h2 align="center">🔐 CYBER SECURITY & TOOLS</h2>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/KALI_LINUX-0B0F14?style=for-the-badge&logo=kalilinux&logoColor=00FF9D" height="60"/>
+
+<img src="https://img.shields.io/badge/NMAP-0B0F14?style=for-the-badge&logo=nmap&logoColor=00D9FF" height="60"/>
+
+<img src="https://img.shields.io/badge/WIRESHARK-0B0F14?style=for-the-badge&logo=wireshark&logoColor=00D9FF" height="60"/>
+
+<img src="https://img.shields.io/badge/METASPLOIT-0B0F14?style=for-the-badge&logo=metasploit&logoColor=FF3366" height="60"/>
+
+<img src="https://img.shields.io/badge/BURP_SUITE-0B0F14?style=for-the-badge&logo=burpsuite&logoColor=FF6633" height="60"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/FOOTPRINTING-050B12?style=for-the-badge&logo=target&logoColor=00FF9D" height="60"/>
+
+<img src="https://img.shields.io/badge/FIREWALL_BYPASS-050B12?style=for-the-badge&logo=fortinet&logoColor=FF4444" height="60"/>
+
+<img src="https://img.shields.io/badge/NIKTO-050B12?style=for-the-badge&logo=linux&logoColor=00FF9D" height="60"/>
+
+<img src="https://img.shields.io/badge/NESSUS-050B12?style=for-the-badge&logo=tenable&logoColor=00D9FF" height="60"/>
+
+<img src="https://img.shields.io/badge/OWASP_ZAP-050B12?style=for-the-badge&logo=owasp&logoColor=00D9FF" height="60"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/MSFCONSOLE-0B0F14?style=for-the-badge&logo=metasploit&logoColor=FF3366" height="60"/>
+
+<img src="https://img.shields.io/badge/MALWARE_ANALYSIS-0B0F14?style=for-the-badge&logo=virustotal&logoColor=00FF9D" height="60"/>
+
+<img src="https://img.shields.io/badge/TROJAN_ANALYSIS-0B0F14?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" height="60"/>
+
+<img src="https://img.shields.io/badge/METASPLOIT_FRAMEWORK-0B0F14?style=for-the-badge&logo=metasploit&logoColor=FF3366" height="60"/>
+
+<img src="https://img.shields.io/badge/KEYLOGGER_ANALYSIS-0B0F14?style=for-the-badge&logo=linux&logoColor=FFCC00" height="60"/>
+
+</p>
 
 
 ### 🧰 Tools & Software
@@ -160,37 +193,48 @@ A specialized collection of projects centered around **secure system architectur
 
 
 
-
-
-
-
-
-
-
-
-
-## 📈 Contribution Graph
-
-[![Samim's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SAMIM72&theme=github-dark)](https://github.com/SAMIM72)
-
-
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/SAMIM72">
-    <img src="https://img.shields.io/badge/GitHub-SAMIM72-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 
-  <a href="mailto:samim13093@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-samim13093@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://github.com/SAMIM72">
+    <img 
+      src="https://img.shields.io/badge/GitHub-SAMIM72-0D1117?style=for-the-badge&logo=github&logoColor=00FF9D"
+      height="55"
+    />
+  </a>
 
-  <a href="https://www.linkedin.com/in/samim-ansary">
-    <img src="https://img.shields.io/badge/LinkedIn-Samim_Ansary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  &nbsp;&nbsp;
+
+  <a href="mailto:samim13093@gmail.com">
+    <img 
+      src="https://img.shields.io/badge/Gmail-Samim_Ansary-0D1117?style=for-the-badge&logo=gmail&logoColor=FF4B4B"
+      height="55"
+    />
+  </a>
+
+  &nbsp;&nbsp;
+
+  <a href="https://www.linkedin.com/in/samim-ansary-142a10343/">
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-Samim_Ansary-0D1117?style=for-the-badge&logo=linkedin&logoColor=00A8FF"
+      height="55"
+    />
+  </a>
+
+</p>
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/01001001_01001110_01010100_01001000-00FF9D?style=for-the-badge&label=STATUS" />
+
 </p>
 
 ---
+
+
+
+
 
 ## 🎯 Motto
 
