@@ -33,14 +33,14 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Pursuing **B.Tech in Computer Science & Engineering** at  Maharshi Dayanand University. Rohtak (MDU)
-- 🔭 Currently working on **NO **  
-- 🌱 Improving skills in ** Python , Ai **   
-- 💬 Ask me about **HTML, CSS, JavaScript,React.js,Node.js & Express.js, Java, C++, Git/GitHub, and Microsoft Office **  
-- 📫 Reach me at **samim13093@gmail.com**  
-- ⚡ Fun fact: I enjoy ** Drawing **
+- 🎓 Pursuing **B.Tech in Computer Science & Engineering** at **Maharshi Dayanand University, Rohtak (MDU)**
+- 🔭 Currently working on **NO**
+- 🌱 Improving skills in **Python, AI**
+- 💬 Ask me about **HTML, CSS, JavaScript, React.js, Node.js & Express.js, Java, C++, Git/GitHub, and Microsoft Office**
+- 📫 Reach me at **samim13093@gmail.com**
+- ⚡ Fun fact: I enjoy **Drawing**
 
---- 
+---
 
 
 
