@@ -226,16 +226,17 @@ A specialized collection of projects centered around **secure system architectur
 
 ---
 
+<div align="center">
+
 ## 🔥 Status
 
+<img src="https://github-readme-stats.vercel.app/api?username=samim-t&show_icons=true&theme=github_dark" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samim-t&layout=compact&theme=github_dark" alt="Top Languages" width="48%" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=SAMIM72&show_icons=true&theme=github_dark" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMIM72&layout=compact&theme=github_dark" alt="Top Languages" width="48%" />
+<br /><br />
 
-  <br /><br />
-
-  <img src="https://streak-stats.demolab.com?user=SAMIM72&theme=github-dark" alt="GitHub Streak" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAMIM72&theme=github_dark" alt="Profile Details" width="48%" />
+<img src="https://streak-stats.demolab.com?user=samim-t&theme=github-dark" alt="GitHub Streak" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samim-t&theme=github_dark" alt="Profile Details" width="48%" />
 
 </div>
 
