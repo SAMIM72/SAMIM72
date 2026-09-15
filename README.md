@@ -226,22 +226,56 @@ A specialized collection of projects centered around **secure system architectur
 
 ---
 
-<div align="center">
-
 ## 🔥 Status
 
-<img src="https://github-readme-stats.vercel.app/api?username=samim-t&show_icons=true&theme=github_dark" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samim-t&layout=compact&theme=github_dark" alt="Top Languages" width="48%" />
+<div align="center">
 
-<br /><br />
+<table>
+<tr>
 
-<img src="https://streak-stats.demolab.com?user=samim-t&theme=github-dark" alt="GitHub Streak" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samim-t&theme=github_dark" alt="Profile Details" width="48%" />
+<!-- GitHub Stats -->
+<td width="50%" align="center">
+
+<img
+  src="https://github-readme-stats-fast.vercel.app/api?username=SAMIM72&show_icons=true&theme=dark&title_color=00E5B0&text_color=E8FFF8&icon_color=00E5B0&bg_color=071116&border_color=00E5B0&hide_border=false"
+  alt="GitHub Stats"
+  width="100%"
+/>
+
+</td>
+
+<!-- Top Languages -->
+<td width="50%" align="center">
+
+<img
+  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SAMIM72&layout=compact&theme=dark&title_color=00E5B0&text_color=E8FFF8&bg_color=071116&border_color=00E5B0&hide_border=false"
+  alt="Top Languages"
+  width="100%"
+/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<!-- GitHub Streak -->
+<td colspan="2" align="center">
+
+<br>
+
+<img
+  src="https://streak-stats.demolab.com/?user=SAMIM72&theme=dark&background=071116&border=00E5B0&stroke=00E5B0&ring=00E5B0&fire=00E5B0&currStreakNum=E8FFF8&sideNums=E8FFF8&currStreakLabel=00E5B0&sideLabels=E8FFF8&dates=8AA7A0"
+  alt="GitHub Streak"
+  width="90%"
+/>
+
+</td>
+
+</tr>
+</table>
 
 </div>
-
-
-
 
 ## 🌐 Connect With Me
 
