@@ -337,55 +337,23 @@ A specialized collection of projects centered around **secure system architectur
 
 ## 🔥 Status
 
-<div align="center">
+<p align="center">
+  <img width="59%" height="300px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAMIM72&theme=tokyonight" />
 
-<table>
-<tr>
+  <img width="40%" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SAMIM72&theme=tokyonight" />
+</p>
 
-<!-- GitHub Stats -->
-<td width="50%" align="center">
+<p align="center">
+  <img width="32%" height="220px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SAMIM72&theme=tokyonight" />
 
-<img
-  src="https://github-readme-stats-fast.vercel.app/api?username=SAMIM72&show_icons=true&theme=dark&title_color=00E5B0&text_color=E8FFF8&icon_color=00E5B0&bg_color=071116&border_color=00E5B0&hide_border=false"
-  alt="GitHub Stats"
-  width="100%"
-/>
+  <img width="32%" height="220px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SAMIM72&theme=tokyonight" />
 
-</td>
+  <img width="32%" height="220px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SAMIM72&theme=tokyonight&utcOffset=8" />
+</p>
 
-<!-- Top Languages -->
-<td width="50%" align="center">
-
-<img
-  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SAMIM72&layout=compact&theme=dark&title_color=00E5B0&text_color=E8FFF8&bg_color=071116&border_color=00E5B0&hide_border=false"
-  alt="Top Languages"
-  width="100%"
-/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<!-- GitHub Streak -->
-<td colspan="2" align="center">
-
-<br>
-
-<img
-  src="https://streak-stats.demolab.com/?user=SAMIM72&theme=dark&background=071116&border=00E5B0&stroke=00E5B0&ring=00E5B0&fire=00E5B0&currStreakNum=E8FFF8&sideNums=E8FFF8&currStreakLabel=00E5B0&sideLabels=E8FFF8&dates=8AA7A0"
-  alt="GitHub Streak"
-  width="90%"
-/>
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
+<p align="center">
+  <img width="98%" height="220px" src="https://github-readme-streak-stats.herokuapp.com/?user=SAMIM72&theme=tokyonight&hide_border=true&background=0D1117" />
+</p>
 ## 🌐 Connect With Me
 
 <p align="center">
