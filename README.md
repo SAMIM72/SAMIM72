@@ -33,13 +33,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Pursuing **B.Tech in Computer Science & Engineering** at **Maharshi Dayanand University, Rohtak (MDU)**
-- 🔭 Currently working on **NO**
-- 🌱 Improving skills in **Python, AI**
-- 💬 Ask me about **HTML, CSS, JavaScript, React.js, Node.js & Express.js, Java, C++, Git/GitHub, and Microsoft Office**
-- 📫 Reach me at **samim13093@gmail.com**
-- ⚡ Fun fact: I enjoy **Drawing**
-
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=66E3FF&center=true&vCenter=true&multiline=true&width=1000&height=400&lines=%24+whoami;Samim+Ansary;%24+education;B.Tech+in+Computer+Science+%26+Engineering;%24+university;Maharshi+Dayanand+University%2C+Rohtak+(MDU);%24+skills;Python+%7C+AI+%7C+HTML+%7C+CSS+%7C+JavaScript;%24+contact;samim13093%40gmail.com;%24+fun+fact;I+enjoy+Drawing"> </p>
 ---
 
 
@@ -423,8 +417,6 @@ A specialized collection of projects centered around **secure system architectur
 
 
 <h1 align="center">🐉 CYBER SECURITY</h1>
-
-
 
 
 
