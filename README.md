@@ -332,22 +332,27 @@ A specialized collection of projects centered around **secure system architectur
 ## 🔥 Status
 
 <p align="center">
-  <img width="59%" height="300px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAMIM72&theme=tokyonight" />
+  <img width="59%" height="300px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAMIM72&theme=github_dark" />
 
-  <img width="40%" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SAMIM72&theme=tokyonight" />
+  <img width="40%" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SAMIM72&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img width="32%" height="220px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SAMIM72&theme=tokyonight" />
+  <img width="32%" height="220px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SAMIM72&theme=github_dark" />
 
-  <img width="32%" height="220px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SAMIM72&theme=tokyonight" />
+  <img width="32%" height="220px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SAMIM72&theme=github_dark" />
 
-  <img width="32%" height="220px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SAMIM72&theme=tokyonight&utcOffset=8" />
+  <img width="32%" height="220px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SAMIM72&theme=github_dark&utcOffset=8" />
 </p>
 
 <p align="center">
-  <img width="98%" height="220px" src="https://github-readme-streak-stats.herokuapp.com/?user=SAMIM72&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img 
+    width="98%" 
+    height="220px" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=SAMIM72&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
+  />
 </p>
+
 ## 🌐 Connect With Me
 
 <p align="center">
