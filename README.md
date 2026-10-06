@@ -1,7 +1,7 @@
 <p align="center">
 
 <p align="center">
-  <img width="800" height="500" alt="Welcome to My Profile"
+  <img width="700" height="500" alt="Welcome to My Profile"
        src="https://github.com/user-attachments/assets/e8788dd8-6d64-4f7b-92f2-81c669eaca80" />
 </p>
 
