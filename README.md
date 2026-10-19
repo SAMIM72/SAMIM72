@@ -429,7 +429,7 @@ A specialized collection of projects centered around **secure system architectur
 
 
 
-
+<img width="480" height="853" alt="Image" src="https://github.com/user-attachments/assets/ff50d539-b947-4a4b-b203-998e95666b6a" />
 
 
 
