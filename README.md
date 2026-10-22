@@ -253,84 +253,200 @@ A specialized collection of projects centered around **secure system architectur
 - **⚡ Advanced Problem-Solving:** Solve complex CS challenges through scalable algorithms and efficient data architectures.
 - **🛠️ Production-Ready Systems:** Build robust, highly maintainable, and secure real-world applications.
 
+ 
 <h2 align="center">🔐 CYBERSECURITY TECH STACK</h2>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/KALI_LINUX-05090B?style=for-the-badge&logo=kalilinux&logoColor=00FF9D" height="85"/>
+  <img src="https://img.shields.io/badge/LINUX-05090B?style=for-the-badge&logo=linux&logoColor=FFFFFF" height="85"/>
+  <img src="https://img.shields.io/badge/WINDOWS-05090B?style=for-the-badge&logo=windows&logoColor=00A4EF" height="85"/>
+</p>
 
-<img src="https://img.shields.io/badge/KALI_LINUX-05090B?style=for-the-badge&logo=kalilinux&logoColor=00FF9D" height="70"/>
-<img src="https://img.shields.io/badge/LINUX-05090B?style=for-the-badge&logo=linux&logoColor=FFFFFF" height="70"/>
-<img src="https://img.shields.io/badge/WINDOWS-05090B?style=for-the-badge&logo=windows&logoColor=00A4EF" height="70"/>
+<table align="center">
+<tr>
+<th colspan="3" align="center">🌐 NETWORKING & RECONNAISSANCE</th>
+</tr>
+<tr>
+<td align="center" width="33%">
 
-<br><br>
+<img src="https://img.shields.io/badge/TCP_IP-05090B?style=for-the-badge&logo=cisco&logoColor=00D9FF" height="85"/>
 
-<img src="https://img.shields.io/badge/TCP/IP-05090B?style=for-the-badge&logo=cisco&logoColor=00D9FF" height="70"/>
-<img src="https://img.shields.io/badge/DNS-05090B?style=for-the-badge&logo=cloudflare&logoColor=F38020" height="70"/>
-<img src="https://img.shields.io/badge/HTTP/HTTPS-05090B?style=for-the-badge&logo=googlechrome&logoColor=00D9FF" height="70"/>
-<img src="https://img.shields.io/badge/VPN-05090B?style=for-the-badge&logo=wireguard&logoColor=00FF9D" height="70"/>
+<img src="https://img.shields.io/badge/DNS-05090B?style=for-the-badge&logo=cloudflare&logoColor=F38020" height="85"/>
 
-<br><br>
+</td>
+<td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/NMAP-05090B?style=for-the-badge&logo=nmap&logoColor=00D9FF" height="70"/>
-<img src="https://img.shields.io/badge/RECON--NG-05090B?style=for-the-badge&logo=linux&logoColor=00FF9D" height="70"/>
-<img src="https://img.shields.io/badge/WHOIS-05090B?style=for-the-badge&logo=googlechrome&logoColor=00D9FF" height="70"/>
+<img src="https://img.shields.io/badge/HTTP_HTTPS-05090B?style=for-the-badge&logo=googlechrome&logoColor=00D9FF" height="85"/>
 
-<br><br>
+<img src="https://img.shields.io/badge/VPN-05090B?style=for-the-badge&logo=wireguard&logoColor=00FF9D" height="85"/>
 
-<img src="https://img.shields.io/badge/WIRESHARK-05090B?style=for-the-badge&logo=wireshark&logoColor=00D9FF" height="70"/>
-<img src="https://img.shields.io/badge/TCPDUMP-05090B?style=for-the-badge&logo=linux&logoColor=00FF9D" height="70"/>
+</td>
+<td align="center" width="33%">
 
-<br><br>
+<img src="https://img.shields.io/badge/NMAP-05090B?style=for-the-badge&logo=nmap&logoColor=00D9FF" height="85"/>
 
-<img src="https://img.shields.io/badge/BURP_SUITE-05090B?style=for-the-badge&logo=burpsuite&logoColor=FF6633" height="70"/>
-<img src="https://img.shields.io/badge/OWASP_ZAP-05090B?style=for-the-badge&logo=owasp&logoColor=00D9FF" height="70"/>
-<img src="https://img.shields.io/badge/OWASP_TOP_10-05090B?style=for-the-badge&logo=owasp&logoColor=FFFFFF" height="70"/>
+<img src="https://img.shields.io/badge/RECON--NG-05090B?style=for-the-badge&logo=linux&logoColor=00FF9D" height="85"/>
 
-<br><br>
+<img src="https://img.shields.io/badge/WHOIS-05090B?style=for-the-badge&logo=googlechrome&logoColor=00D9FF" height="85"/>
 
-<img src="https://img.shields.io/badge/METASPLOIT-05090B?style=for-the-badge&logo=metasploit&logoColor=FF3366" height="70"/>
-<img src="https://img.shields.io/badge/HYDRA-05090B?style=for-the-badge&logo=linux&logoColor=FF3333" height="70"/>
-<img src="https://img.shields.io/badge/NIKTO-05090B?style=for-the-badge&logo=linux&logoColor=00FF9D" height="70"/>
+</td>
+</tr>
 
-<br><br>
+<tr>
+<th colspan="3" align="center">📡 NETWORK ANALYSIS & WEB SECURITY</th>
+</tr>
+<tr>
+<td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/NESSUS-05090B?style=for-the-badge&logo=tenable&logoColor=00D9FF" height="70"/>
-<img src="https://img.shields.io/badge/OPENVAS-05090B?style=for-the-badge&logo=greenbone&logoColor=00FF9D" height="70"/>
+<img src="https://img.shields.io/badge/WIRESHARK-05090B?style=for-the-badge&logo=wireshark&logoColor=00D9FF" height="85"/>
 
-<br><br>
+<img src="https://img.shields.io/badge/TCPDUMP-05090B?style=for-the-badge&logo=linux&logoColor=00FF9D" height="85"/>
 
-<img src="https://img.shields.io/badge/PYTHON-05090B?style=for-the-badge&logo=python&logoColor=FFD43B" height="70"/>
-<img src="https://img.shields.io/badge/BASH-05090B?style=for-the-badge&logo=gnubash&logoColor=00FF9D" height="70"/>
-<img src="https://img.shields.io/badge/POWERSHELL-05090B?style=for-the-badge&logo=powershell&logoColor=5391FE" height="70"/>
-<img src="https://img.shields.io/badge/JAVASCRIPT-05090B?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="70"/>
+</td>
+<td align="center" width="33%">
 
-<br><br>
+<img src="https://img.shields.io/badge/BURP_SUITE-05090B?style=for-the-badge&logo=burpsuite&logoColor=FF6633" height="85"/>
 
-<img src="https://img.shields.io/badge/AWS-05090B?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" height="70"/>
-<img src="https://img.shields.io/badge/EC2-05090B?style=for-the-badge&logo=amazonec2&logoColor=FF9900" height="70"/>
-<img src="https://img.shields.io/badge/IAM-05090B?style=for-the-badge&logo=amazoniam&logoColor=FF9900" height="70"/>
-<img src="https://img.shields.io/badge/CLOUDTRAIL-05090B?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" height="70"/>
+<img src="https://img.shields.io/badge/OWASP_ZAP-05090B?style=for-the-badge&logo=owasp&logoColor=00D9FF" height="85"/>
 
-<br><br>
+</td>
+<td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/FIREWALL-05090B?style=for-the-badge&logo=fortinet&logoColor=FF4444" height="70"/>
-<img src="https://img.shields.io/badge/IDS%2FIPS-05090B?style=for-the-badge&logo=suricata&logoColor=FF3366" height="70"/>
-<img src="https://img.shields.io/badge/ZERO_TRUST-05090B?style=for-the-badge&logo=linux&logoColor=00FF9D" height="70"/>
+<img src="https://img.shields.io/badge/OWASP_TOP_10-05090B?style=for-the-badge&logo=owasp&logoColor=FFFFFF" height="85"/>
 
-<br><br>
+<img src="https://img.shields.io/badge/NIKTO-05090B?style=for-the-badge&logo=linux&logoColor=00FF9D" height="85"/>
 
-<img src="https://img.shields.io/badge/GIT-05090B?style=for-the-badge&logo=git&logoColor=F05032" height="70"/>
-<img src="https://img.shields.io/badge/GITHUB-05090B?style=for-the-badge&logo=github&logoColor=FFFFFF" height="70"/>
-<img src="https://img.shields.io/badge/DOCKER-05090B?style=for-the-badge&logo=docker&logoColor=2496ED" height="70"/>
+</td>
+</tr>
 
-<br><br>
+<tr>
+<th colspan="3" align="center">🛡️ PENETRATION TESTING & VULNERABILITY MANAGEMENT</th>
+</tr>
+<tr>
+<td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/SPLUNK-05090B?style=for-the-badge&logo=splunk&logoColor=65A637" height="70"/>
-<img src="https://img.shields.io/badge/WAZUH-05090B?style=for-the-badge&logo=wazuh&logoColor=00FF9D" height="70"/>
-<img src="https://img.shields.io/badge/ELK_STACK-05090B?style=for-the-badge&logo=elastic&logoColor=00D9FF" height="70"/>
+<img src="https://img.shields.io/badge/METASPLOIT-05090B?style=for-the-badge&logo=metasploit&logoColor=FF3366" height="85"/>
 
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/HYDRA-05090B?style=for-the-badge&logo=linux&logoColor=FF3333" height="85"/>
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/NESSUS-05090B?style=for-the-badge&logo=tenable&logoColor=00D9FF" height="85"/>
+
+<img src="https://img.shields.io/badge/OPENVAS-05090B?style=for-the-badge&logo=greenbone&logoColor=00FF9D" height="85"/>
+
+</td>
+</tr>
+
+<tr>
+<th colspan="3" align="center">💻 PROGRAMMING & SCRIPTING</th>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/PYTHON-05090B?style=for-the-badge&logo=python&logoColor=FFD43B" height="85"/>
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/BASH-05090B?style=for-the-badge&logo=gnubash&logoColor=00FF9D" height="85"/>
+
+<img src="https://img.shields.io/badge/POWERSHELL-05090B?style=for-the-badge&logo=powershell&logoColor=5391FE" height="85"/>
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/JAVASCRIPT-05090B?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="85"/>
+
+</td>
+</tr>
+
+<tr>
+<th colspan="3" align="center">☁️ CLOUD SECURITY — AWS</th>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/AWS-05090B?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" height="85"/>
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/EC2-05090B?style=for-the-badge&logo=amazonec2&logoColor=FF9900" height="85"/>
+
+<img src="https://img.shields.io/badge/IAM-05090B?style=for-the-badge&logo=amazoniam&logoColor=FF9900" height="85"/>
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/CLOUDTRAIL-05090B?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" height="85"/>
+
+</td>
+</tr>
+
+<tr>
+<th colspan="3" align="center">🔥 DEFENSIVE SECURITY & ZERO TRUST</th>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/FIREWALL-05090B?style=for-the-badge&logo=fortinet&logoColor=FF4444" height="85"/>
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/IDS_IPS-05090B?style=for-the-badge&logo=suricata&logoColor=FF3366" height="85"/>
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/ZERO_TRUST-05090B?style=for-the-badge&logo=linux&logoColor=00FF9D" height="85"/>
+
+</td>
+</tr>
+
+<tr>
+<th colspan="3" align="center">⚙️ DEVELOPMENT & SIEM MONITORING</th>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/GIT-05090B?style=for-the-badge&logo=git&logoColor=F05032" height="85"/>
+
+<img src="https://img.shields.io/badge/GITHUB-05090B?style=for-the-badge&logo=github&logoColor=FFFFFF" height="85"/>
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/DOCKER-05090B?style=for-the-badge&logo=docker&logoColor=2496ED" height="85"/>
+
+<img src="https://img.shields.io/badge/WAZUH-05090B?style=for-the-badge&logo=wazuh&logoColor=00FF9D" height="85"/>
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/SPLUNK-05090B?style=for-the-badge&logo=splunk&logoColor=65A637" height="85"/>
+
+<img src="https://img.shields.io/badge/ELK_STACK-05090B?style=for-the-badge&logo=elastic&logoColor=00D9FF" height="85"/>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LEARN-BUILD-05090B?style=for-the-badge&logo=github&logoColor=00FF9D" height="60"/>
+  <img src="https://img.shields.io/badge/DETECT-DEFEND-05090B?style=for-the-badge&logo=kalilinux&logoColor=00D9FF" height="60"/>
 </p>
 
 ---
+
+<p align="center">
+  <b>🔐 CYBERSECURITY ENTHUSIAST | LINUX | NETWORKING | CLOUD SECURITY</b>
+</p>
 
 ## 🔥 Status
 
@@ -446,6 +562,4 @@ A specialized collection of projects centered around **secure system architectur
 
 
 
-
-   
-
+ 
