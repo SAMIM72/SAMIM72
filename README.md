@@ -476,40 +476,44 @@ A specialized collection of projects centered around **secure system architectur
 
 <p align="center">
 
+  <!-- GITHUB -->
   <a href="https://github.com/SAMIM72">
-    <img 
-      src="https://img.shields.io/badge/GitHub-SAMIM72-0D1117?style=for-the-badge&logo=github&logoColor=00FF9D"
-      height="55"
+    <img
+      width="70"
+      height="70"
+      alt="GitHub"
+      src="https://github.com/user-attachments/assets/ee7e07bd-26a6-49dd-8c7e-96220a79454d"
     />
   </a>
 
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
 
+  <!-- GMAIL -->
   <a href="mailto:samim13093@gmail.com">
-    <img 
-      src="https://img.shields.io/badge/Gmail-Samim_Ansary-0D1117?style=for-the-badge&logo=gmail&logoColor=FF4B4B"
-      height="55"
+    <img
+      width="70"
+      height="70"
+      alt="Gmail"
+      src="https://github.com/user-attachments/assets/2f02cb33-28b7-4270-adc0-75cfddf4d77b"
     />
   </a>
 
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
 
+  <!-- LINKEDIN -->
   <a href="https://www.linkedin.com/in/samim-ansary-142a10343/">
-    <img 
-      src="https://img.shields.io/badge/LinkedIn-Samim_Ansary-0D1117?style=for-the-badge&logo=linkedin&logoColor=00A8FF"
-      height="55"
+    <img
+      width="70"
+      height="70"
+      alt="LinkedIn"
+      src="https://github.com/user-attachments/assets/7659359a-9e8e-472e-83c5-708ad6402128"
     />
   </a>
 
 </p>
 
-<p align="center">
 
-  <img src="https://img.shields.io/badge/01001001_01001110_01010100_01001000-00FF9D?style=for-the-badge&label=STATUS" />
 
-</p>
-
----
 
 
 
@@ -576,9 +580,6 @@ A specialized collection of projects centered around **secure system architectur
 
 
 
-<img width="100" height="100" alt="Image" src="https://github.com/user-attachments/assets/ee7e07bd-26a6-49dd-8c7e-96220a79454d" />
-<img width="100" height="100" alt="Image" src="https://github.com/user-attachments/assets/2f02cb33-28b7-4270-adc0-75cfddf4d77b" />
-<img width="100" height="100" alt="Image" src="https://github.com/user-attachments/assets/7659359a-9e8e-472e-83c5-708ad6402128" />
 
 
 
@@ -594,54 +595,6 @@ A specialized collection of projects centered around **secure system architectur
 
 
 
-
-
-
-
-
-
-
-
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-  <!-- GITHUB -->
-  <a href="https://github.com/SAMIM72">
-    <img
-      width="100"
-      height="100"
-      alt="GitHub"
-      src="https://github.com/user-attachments/assets/ee7e07bd-26a6-49dd-8c7e-96220a79454d"
-    />
-  </a>
-
-  &nbsp;&nbsp;&nbsp;
-
-  <!-- GMAIL -->
-  <a href="mailto:samim13093@gmail.com">
-    <img
-      width="100"
-      height="100"
-      alt="Gmail"
-      src="https://github.com/user-attachments/assets/2f02cb33-28b7-4270-adc0-75cfddf4d77b"
-    />
-  </a>
-
-  &nbsp;&nbsp;&nbsp;
-
-  <!-- LINKEDIN -->
-  <a href="https://www.linkedin.com/in/samim-ansary-142a10343/">
-    <img
-      width="100"
-      height="100"
-      alt="LinkedIn"
-      src="https://github.com/user-attachments/assets/7659359a-9e8e-472e-83c5-708ad6402128"
-    />
-  </a>
-
-</p>
 
 
 
