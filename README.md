@@ -576,8 +576,8 @@ A specialized collection of projects centered around **secure system architectur
 
 
 
-<img width="240" height="240" alt="Image" src="https://github.com/user-attachments/assets/ee7e07bd-26a6-49dd-8c7e-96220a79454d" />
-<img width="240" height="240" alt="Image" src="https://github.com/user-attachments/assets/2f02cb33-28b7-4270-adc0-75cfddf4d77b" />
-<img width="240" height="240" alt="Image" src="https://github.com/user-attachments/assets/7659359a-9e8e-472e-83c5-708ad6402128" />
+<img width="100" height="100" alt="Image" src="https://github.com/user-attachments/assets/ee7e07bd-26a6-49dd-8c7e-96220a79454d" />
+<img width="100" height="100" alt="Image" src="https://github.com/user-attachments/assets/2f02cb33-28b7-4270-adc0-75cfddf4d77b" />
+<img width="100" height="100" alt="Image" src="https://github.com/user-attachments/assets/7659359a-9e8e-472e-83c5-708ad6402128" />
 
 
