@@ -510,7 +510,7 @@ A specialized collection of projects centered around **secure system architectur
 
 
 
-
+<img width="1200" height="300" alt="Neon Full Stack Cybersecurity Workspace" src="https://github.com/user-attachments/assets/75b15e76-61fb-45ee-8a2d-ef6781f9b7c3" />
 
 
 
