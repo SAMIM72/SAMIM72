@@ -446,49 +446,18 @@ A specialized collection of projects centered around **secure system architectur
 ## 🌐 Connect With Me
 
 <p align="center">
-
-  <!-- GITHUB -->
   <a href="https://github.com/SAMIM72">
-    <img
-      width="70"
-      height="70"
-      alt="GitHub"
-      src="https://github.com/user-attachments/assets/ee7e07bd-26a6-49dd-8c7e-96220a79454d".     
-    />
+    <img width="70" height="70" alt="GitHub" src="https://github.com/user-attachments/assets/ee7e07bd-26a6-49dd-8c7e-96220a79454d" />
   </a>
-
-  &nbsp;&nbsp;&nbsp;            
-  <!-- GMAIL -->
-  <a href="mailto:samim13093@gmail.com">
-    <img
-      width="70"
-      height="70"
-      alt="Gmail"
-      src="https://github.com/user-attachments/assets/2f02cb33-28b7-4270-adc0-75cfddf4d77b"
-    />
-  </a>
-
   &nbsp;&nbsp;&nbsp;
-
-
-  <!-- LINKEDIN -->
-  <a href="https://www.linkedin.com/in/samim-ansary-142a10343/">
-    <img
-      width="70"
-      height="70"
-      alt="LinkedIn"
-      src="https://github.com/user-attachments/assets/7659359a-9e8e-472e-83c5-708ad6402128"
-    />
+  <a href="mailto:samim13093@gmail.com">
+    <img width="70" height="70" alt="Gmail" src="https://github.com/user-attachments/assets/2f02cb33-28b7-4270-adc0-75cfddf4d77b" />
   </a>
-
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/samim-ansary-142a10343/">
+    <img width="70" height="70" alt="LinkedIn" src="https://github.com/user-attachments/assets/7659359a-9e8e-472e-83c5-708ad6402128" />
+  </a>
 </p>
-
-
-
-
-
-
-
 
 ## 🎯 Motto
 
@@ -548,21 +517,6 @@ A specialized collection of projects centered around **secure system architectur
 
 
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/SAMIM72">
-    <img width="70" height="70" alt="GitHub" src="https://github.com/user-attachments/assets/ee7e07bd-26a6-49dd-8c7e-96220a79454d" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:samim13093@gmail.com">
-    <img width="70" height="70" alt="Gmail" src="https://github.com/user-attachments/assets/2f02cb33-28b7-4270-adc0-75cfddf4d77b" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/samim-ansary-142a10343/">
-    <img width="70" height="70" alt="LinkedIn" src="https://github.com/user-attachments/assets/7659359a-9e8e-472e-83c5-708ad6402128" />
-  </a>
-</p>
 
 
 
