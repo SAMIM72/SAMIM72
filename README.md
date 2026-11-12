@@ -453,11 +453,24 @@ A specialized collection of projects centered around **secure system architectur
       width="70"
       height="70"
       alt="GitHub"
-      src="https://github.com/user-attachments/assets/ee7e07bd-26a6-49dd-8c7e-96220a79454d"
+      src="https://github.com/user-attachments/assets/ee7e07bd-26a6-49dd-8c7e-96220a79454d".     
+    />
+  </a>
+
+  &nbsp;&nbsp;&nbsp;            
+  <!-- GMAIL -->
+  <a href="mailto:samim13093@gmail.com">
+    <img
+      width="70"
+      height="70"
+      alt="Gmail"
+      src="https://github.com/user-attachments/assets/2f02cb33-28b7-4270-adc0-75cfddf4d77b"
     />
   </a>
 
   &nbsp;&nbsp;&nbsp;
+
+  <!-- LINKEDIN -->
 
   <!-- GMAIL -->
   <a href="mailto:samim13093@gmail.com">
