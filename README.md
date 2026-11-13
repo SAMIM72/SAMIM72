@@ -7,13 +7,9 @@
 
 
 
-</p>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00FF00,100:000000&height=250&section=header&text=SAMIM%20KHAN&fontSize=60&fontColor=ffffff&animation=blinking"/>
-</p>
 
-<h1 align="center">💀 Hi, I'm Samim Khan 💀</h1>
+<h1 align="center">💀 Hi, I'm Samim Afsarul Ansary 💀</h1>
 
 <h3 align="center">Cyber Security Enthusiast | AI Learner | Future Ethical Hacker</h3>
 
