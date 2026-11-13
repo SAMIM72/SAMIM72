@@ -11,7 +11,7 @@
 
 <h1 align="center">💀 Hi, I'm Samim Afsarul Ansary 💀</h1>
 
-<h3 align="center">Cyber Security Enthusiast | AI Learner | Future Ethical Hacker</h3>
+<h3 align="center">Cyber Security Enthusiast and full stock devlopar | AI Learner | Future Ethical Hacker</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=root@kali:~%24+whoami;Samim+Khan;Cyber+Security+Enthusiast;AI+Learner;Linux+%7C+Networking+%7C+Security;Always+Learning+New+Things"/>
