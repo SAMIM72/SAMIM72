@@ -1,8 +1,8 @@
 
 <p align="center">
   <img
-    width="100"
-    height="150"
+    width="70"
+    height="120"
     src="https://github.com/user-attachments/assets/381a9e44-1b21-4350-8d11-ff2cb2c5c4b8"
     alt="Animated Letter S"
   />
