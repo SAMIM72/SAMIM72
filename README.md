@@ -1,7 +1,12 @@
 
-<img width="100" height="150" alt="Image result for Animated Letter S gifs" src="https://github.com/user-attachments/assets/381a9e44-1b21-4350-8d11-ff2cb2c5c4b8" />
 <p align="center">
-
+  <img
+    width="100"
+    height="150"
+    src="https://github.com/user-attachments/assets/381a9e44-1b21-4350-8d11-ff2cb2c5c4b8"
+    alt="Animated Letter S"
+  />
+</p>
 <p align="center">
   <img width="900" height="500" alt="Welcome to My Profile"
        src="https://github.com/user-attachments/assets/e8788dd8-6d64-4f7b-92f2-81c669eaca80" />
