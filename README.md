@@ -1,3 +1,5 @@
+
+<img width="100" height="150" alt="Image result for Animated Letter S gifs" src="https://github.com/user-attachments/assets/381a9e44-1b21-4350-8d11-ff2cb2c5c4b8" />
 <p align="center">
 
 <p align="center">
