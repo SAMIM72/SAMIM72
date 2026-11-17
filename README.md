@@ -20,6 +20,8 @@
 
 <h3 align="center">Cyber Security Enthusiast and full stock devlopar | AI Learner | Future Ethical Hacker</h3>
 
+<img width="1280" height="720" alt="WhatsApp Image 2026-11-17 at 18 47 43" src="https://github.com/user-attachments/assets/1b4b6fc0-4fb8-43a7-bcd6-b02c8303c18d" />
+
 
 
 ## 👨‍💻 About Me
