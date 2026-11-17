@@ -8,7 +8,7 @@
   />
 </p>
 <p align="center">
-  <img width="900" height="500" alt="Welcome to My Profile"
+  <img width="800" height="400" alt="Welcome to My Profile"
        src="https://github.com/user-attachments/assets/e8788dd8-6d64-4f7b-92f2-81c669eaca80" />
 </p>
 
@@ -20,7 +20,7 @@
 
 <h3 align="center">Cyber Security Enthusiast and full stock devlopar | AI Learner | Future Ethical Hacker</h3>
 
-<img width="1280" height="720" alt="WhatsApp Image 2026-11-17 at 18 47 43" src="https://github.com/user-attachments/assets/1b4b6fc0-4fb8-43a7-bcd6-b02c8303c18d" />
+<img width="1280" height="620" alt="WhatsApp Image 2026-11-17 at 18 47 43" src="https://github.com/user-attachments/assets/1b4b6fc0-4fb8-43a7-bcd6-b02c8303c18d" />
 
 
 
