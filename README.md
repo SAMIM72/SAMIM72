@@ -20,23 +20,7 @@
 
 <h3 align="center">Cyber Security Enthusiast and full stock devlopar | AI Learner | Future Ethical Hacker</h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=root@kali:~%24+whoami;Samim+Khan;Cyber+Security+Enthusiast;AI+Learner;Linux+%7C+Networking+%7C+Security;Always+Learning+New+Things"/>
-</p>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg"/>
-</p>
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212750337-4927a13b-7c64-4e66-b8db-385f3b7f2d6c.gif" width="700"/>
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=SAMIM72&label=PROFILE+VIEWS&color=00ff00&style=for-the-badge"/>
-</p>
-
----
 
 ## 👨‍💻 About Me
 
